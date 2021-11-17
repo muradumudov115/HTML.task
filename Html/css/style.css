@@ -1,0 +1,10 @@
+.main{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-style: 15px dashed;
+    border-top: 2px;
+    border: 5px solid gray;
+    margin: 0;
+
+}
